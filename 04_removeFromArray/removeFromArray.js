@@ -10,7 +10,6 @@ const removeFromArray = function(array) {
             }
         }
     }
-    console.log(fixedArray);
     return fixedArray;
 };
 
